@@ -1,0 +1,16 @@
+ts-MacBook-Pro:homework2 gushuqin$ java question3
+Enter a string to check if it is a palindrome
+ettttttee
+Entered string is not a palindrome.
+tests-MacBook-Pro:homework2 gushuqin$ java question3
+Enter a string to check if it is a palindrome
+werrtyytrrew
+Entered string is a palindrome.
+tests-MacBook-Pro:homework2 gushuqin$ java question3
+Enter a string to check if it is a palindrome
+qqqqqqqqqiiqqq
+Entered string is not a palindrome.
+tests-MacBook-Pro:homework2 gushuqin$ java question3
+Enter a string to check if it is a palindrome
+madamimadam
+Entered string is a palindrome.

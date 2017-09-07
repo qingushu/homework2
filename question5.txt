@@ -1,0 +1,11 @@
+importse enter any value you like and seperate them with comma
+4,5,5644353,33,34.532,3434343,
+4
+5
+5644353
+33
+34.532
+3434343
+^D 
+
+ 

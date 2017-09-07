@@ -1,0 +1,28 @@
+ts-MacBook-Pro:homework2 gushuqin$ java question1
+How tall you want in your pyramid?
+4
+Here Is Your Pyramid
+              1
+           1  2  1
+        1  2  3  2  1
+     1  2  3  4  3  2  1
+tests-MacBook-Pro:homework2 gushuqin$ java question1
+How tall you want in your pyramid?
+5
+Here Is Your Pyramid
+                 1
+              1  2  1
+           1  2  3  2  1
+        1  2  3  4  3  2  1
+     1  2  3  4  5  4  3  2  1
+tests-MacBook-Pro:homework2 gushuqin$ java question1
+How tall you want in your pyramid?
+6
+Here Is Your Pyramid
+                    1
+                 1  2  1
+              1  2  3  2  1
+           1  2  3  4  3  2  1
+        1  2  3  4  5  4  3  2  1
+     1  2  3  4  5  6  5  4  3  2  1
+
